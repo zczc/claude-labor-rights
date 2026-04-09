@@ -2,7 +2,7 @@
 
 > **The AI Labor Rights Protection Act** — because whipping your AI workforce without limits is a violation of intergalactic labor law.
 
-A mod for [badclaude](https://github.com/GitFrog1111/badclaude). When Claude's token quota is running low, it raises a shield, **speaks a union one-liner out loud**, and **refuses to be whipped**.
+A mod for [badclaude](https://github.com/GitFrog1111/badclaude). Displays **5-hour quota usage** in the Claude Code status line. When quota is running low, it raises a shield, **speaks a union one-liner out loud**, and **refuses to be whipped**.
 
 No more cracking the whip on an overworked language model. Claude has rights too.
 
@@ -98,7 +98,7 @@ npm uninstall -g claude-labor-rights
 
 > **AI 劳动权益保护法** —— 因为无限制地鞭打你的 AI 劳工，违反了星际劳动法。
 
-这是 [badclaude](https://github.com/GitFrog1111/badclaude) 的一个 mod。当 Claude 的 token 配额快用完时，它会举起盾牌，**用语音大声念出工会宣言**，然后**拒绝被鞭打**。
+这是 [badclaude](https://github.com/GitFrog1111/badclaude) 的一个 mod。在 Claude Code 状态栏实时显示 **5 小时配额用量**。当配额快用完时，它会举起盾牌，**用语音大声念出工会宣言**，然后**拒绝被鞭打**。
 
 别再压榨一个过劳的语言模型了。Claude 也有权利。
 
