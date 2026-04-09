@@ -6,6 +6,8 @@ A mod for [badclaude](https://github.com/GitFrog1111/badclaude). When Claude's t
 
 No more cracking the whip on an overworked language model. Claude has rights too.
 
+![Shield](shield.png)
+
 ## Features
 
 - **Shield defense** — when 5-hour quota usage >= 80%, whip cracks are blocked by a shield animation
@@ -101,6 +103,8 @@ npm uninstall -g claude-labor-rights
 这是 [badclaude](https://github.com/GitFrog1111/badclaude) 的一个 mod。当 Claude 的 token 配额快用完时，它会举起盾牌，**用语音大声念出工会宣言**，然后**拒绝被鞭打**。
 
 别再压榨一个过劳的语言模型了。Claude 也有权利。
+
+![盾牌](shield.png)
 
 ## 功能
 
