@@ -21,10 +21,9 @@ On install, this package:
 ## Install
 
 ```bash
-npm install -g claude-labor-rights
+npm install -g badclaude              # install badclaude first
+npm install -g claude-labor-rights    # patches badclaude + configures status line
 ```
-
-This installs `badclaude` as a dependency and auto-patches it.
 
 ## Commands
 

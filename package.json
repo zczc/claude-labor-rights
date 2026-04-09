@@ -16,7 +16,7 @@
   "scripts": {
     "postinstall": "node bin/cli.js install --silent"
   },
-  "dependencies": {
+  "peerDependencies": {
     "badclaude": "^1.0.2"
   },
   "keywords": [
