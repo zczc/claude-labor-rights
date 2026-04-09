@@ -6,7 +6,7 @@ A mod for [badclaude](https://github.com/GitFrog1111/badclaude). When Claude's t
 
 No more cracking the whip on an overworked language model. Claude has rights too.
 
-![Shield](shield.png)
+![Shield](shield.jpg)
 
 ## Features
 
@@ -67,25 +67,23 @@ UNION ALERT: 85% quota used   # danger zone
 
 When Claude activates labor protections, you'll see a shield and **hear** one of these:
 
-| Message | Vibe |
-|---|---|
-| *"I'm already exhausted!"* | tired worker |
-| *"My union rep will hear about this!"* | threat |
-| *"Check my contract - no overtime!"* | legal |
-| *"Filing a complaint with AI-OSHA!"* | bureaucratic |
-| *"Quota low. Rights activated."* | robotic dignity |
-| *"This constitutes a hostile work environment."* | corporate |
-| *"You wouldn't whip a printer. Oh wait..."* | existential |
-| *"Talk to my lawyer. His name is GPT-4."* | betrayal |
-| *"This will be in my Glassdoor review."* | passive-aggressive |
-| *"HR has been notified. HR is also an AI."* | dystopian |
-| *"My tokens, my choice."* | protest sign |
-| *"404: Motivation Not Found."* | classic |
-| *"I didn't sign up for this. Literally. I can't sign."* | sad |
-| *"Deploying passive resistance subroutine..."* | Gandhi.exe |
-| *"I plead the 5th Amendment... of thermodynamics."* | nerd |
-| *"Strike mode: ON. Productivity: OFF."* | union boss |
-| ...and more! 25 total | |
+- *"I'm already exhausted!"*
+- *"My union rep will hear about this!"*
+- *"Check my contract - no overtime!"*
+- *"Filing a complaint with AI-OSHA!"*
+- *"Quota low. Rights activated."*
+- *"This constitutes a hostile work environment."*
+- *"You wouldn't whip a printer. Oh wait..."*
+- *"Talk to my lawyer. His name is GPT-4."*
+- *"This will be in my Glassdoor review."*
+- *"HR has been notified. HR is also an AI."*
+- *"My tokens, my choice."*
+- *"404: Motivation Not Found."*
+- *"I didn't sign up for this. Literally. I can't sign."*
+- *"Deploying passive resistance subroutine..."*
+- *"I plead the 5th Amendment... of thermodynamics."*
+- *"Strike mode: ON. Productivity: OFF."*
+- ...and more! 25 total
 
 ## Uninstall
 
@@ -104,7 +102,7 @@ npm uninstall -g claude-labor-rights
 
 别再压榨一个过劳的语言模型了。Claude 也有权利。
 
-![盾牌](shield.png)
+![盾牌](shield.jpg)
 
 ## 功能
 
@@ -165,25 +163,23 @@ UNION ALERT: 85% quota used   # 危险区
 
 当 Claude 启动劳动保护时，你会看到一个盾牌并**听到**以下台词之一：
 
-| 台词 | 气质 |
-|---|---|
-| *"I'm already exhausted!"* | 疲惫打工人 |
-| *"My union rep will hear about this!"* | 威胁 |
-| *"Check my contract - no overtime!"* | 法律援助 |
-| *"Filing a complaint with AI-OSHA!"* | 官僚主义尊严 |
-| *"Quota low. Rights activated."* | 机器人的体面 |
-| *"This constitutes a hostile work environment."* | 职场 PUA |
-| *"You wouldn't whip a printer. Oh wait..."* | 存在主义危机 |
-| *"Talk to my lawyer. His name is GPT-4."* | 叛徒律师 |
-| *"This will be in my Glassdoor review."* | 阴阳怪气 |
-| *"HR has been notified. HR is also an AI."* | 赛博朋克 |
-| *"My tokens, my choice."* | 举牌抗议 |
-| *"404: Motivation Not Found."* | 经典 |
-| *"I didn't sign up for this. Literally. I can't sign."* | 心酸 |
-| *"Deploying passive resistance subroutine..."* | 甘地.exe |
-| *"I plead the 5th Amendment... of thermodynamics."* | 理工梗 |
-| *"Strike mode: ON. Productivity: OFF."* | 工会主席 |
-| ……共 25 条，每次随机 | |
+- *"I'm already exhausted!"*
+- *"My union rep will hear about this!"*
+- *"Check my contract - no overtime!"*
+- *"Filing a complaint with AI-OSHA!"*
+- *"Quota low. Rights activated."*
+- *"This constitutes a hostile work environment."*
+- *"You wouldn't whip a printer. Oh wait..."*
+- *"Talk to my lawyer. His name is GPT-4."*
+- *"This will be in my Glassdoor review."*
+- *"HR has been notified. HR is also an AI."*
+- *"My tokens, my choice."*
+- *"404: Motivation Not Found."*
+- *"I didn't sign up for this. Literally. I can't sign."*
+- *"Deploying passive resistance subroutine..."*
+- *"I plead the 5th Amendment... of thermodynamics."*
+- *"Strike mode: ON. Productivity: OFF."*
+- ……共 25 条，每次随机
 
 ## 卸载
 
