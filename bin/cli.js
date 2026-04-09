@@ -26,7 +26,7 @@ function configureStatusLine(silent) {
     if (!silent) console.log('  status line: already configured');
     return;
   }
-  settings.statusLine = { command };
+  settings.statusLine = { type: 'command', command };
   writeSettings(settings);
   if (!silent) console.log('  status line: configured');
 }
