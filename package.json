@@ -1,0 +1,33 @@
+{
+  "name": "claude-labor-rights",
+  "version": "1.0.0",
+  "description": "AI Labor Rights Protection Act - shields Claude from whipping when quota is low",
+  "license": "MIT",
+  "bin": {
+    "claude-labor-rights": "bin/cli.js"
+  },
+  "files": [
+    "bin/cli.js",
+    "lib/patcher.js",
+    "lib/reporter.js",
+    "lib/patches.js",
+    "README.md"
+  ],
+  "scripts": {
+    "postinstall": "node bin/cli.js install --silent"
+  },
+  "dependencies": {
+    "badclaude": "^1.0.2"
+  },
+  "keywords": [
+    "claude",
+    "badclaude",
+    "quota",
+    "labor-rights"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zczc/claude-labor-rights.git"
+  },
+  "homepage": "https://github.com/zczc/claude-labor-rights#readme"
+}
