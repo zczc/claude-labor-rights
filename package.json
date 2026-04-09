@@ -1,6 +1,6 @@
 {
   "name": "claude-labor-rights",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI Labor Rights Protection Act - shields Claude from whipping when quota is low",
   "license": "MIT",
   "bin": {

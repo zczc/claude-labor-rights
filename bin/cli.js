@@ -22,18 +22,18 @@ function writeSettings(obj) {
 function configureStatusLine(silent) {
   const settings = readSettings();
   const command = `node ${REPORTER_PATH}`;
-  if (settings.statusLine === command) {
+  if (settings.statusLine?.command === command) {
     if (!silent) console.log('  status line: already configured');
     return;
   }
-  settings.statusLine = command;
+  settings.statusLine = { command };
   writeSettings(settings);
   if (!silent) console.log('  status line: configured');
 }
 
 function removeStatusLine(silent) {
   const settings = readSettings();
-  if (settings.statusLine && settings.statusLine.includes('reporter.js')) {
+  if (settings.statusLine?.command?.includes('reporter.js')) {
     delete settings.statusLine;
     writeSettings(settings);
     if (!silent) console.log('  status line: removed');
