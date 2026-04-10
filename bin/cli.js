@@ -47,8 +47,9 @@ const silent = process.argv.includes('--silent');
 if (cmd === 'install') {
   if (!silent) console.log('claude-labor-rights: installing...');
   const ok = install(silent);
-  if (ok) configureStatusLine(silent);
+  configureStatusLine(silent);
   if (!silent && ok) console.log('Done! Restart badclaude to activate.');
+  if (!silent && !ok) console.log('Status line configured. Install badclaude for full shield protection.');
 
 } else if (cmd === 'uninstall') {
   console.log('claude-labor-rights: uninstalling...');
