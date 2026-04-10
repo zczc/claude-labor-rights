@@ -20,6 +20,9 @@
   "peerDependencies": {
     "badclaude": "^1.0.2"
   },
+  "peerDependenciesMeta": {
+    "badclaude": { "optional": true }
+  },
   "keywords": [
     "claude",
     "badclaude",

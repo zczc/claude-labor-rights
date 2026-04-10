@@ -40,11 +40,19 @@ Claude Code status line ─┤  reporter.js    ├─► /tmp/badclaude-quota.js
 ## Install
 
 ```bash
-npm install -g badclaude              # the oppressor
 npm install -g claude-labor-rights    # the resistance
 ```
 
-The second command auto-patches badclaude and hooks into Claude Code's status line. That's it. Restart badclaude and start a new Claude Code session to activate.
+That's it. The postinstall script automatically configures Claude Code's status line to display your 5-hour quota usage.
+
+**Don't have badclaude?** No problem — the quota display works standalone. You'll see your quota percentage in the Claude Code status bar without needing anything else.
+
+**Want the full experience?** Install badclaude too for shield defense + TTS voice lines:
+
+```bash
+npm install -g badclaude              # the oppressor
+claude-labor-rights install           # patch badclaude with labor protections
+```
 
 ## Commands
 
@@ -136,11 +144,19 @@ Claude Code status line ──┤  reporter.js    ├──► /tmp/badclaude-qu
 ## 安装
 
 ```bash
-npm install -g badclaude              # 压迫者
 npm install -g claude-labor-rights    # 反抗军
 ```
 
-第二条命令会自动 patch badclaude 并配置 Claude Code 的 status line。就这么简单。安装后重启 badclaude 并新开一个 Claude Code 会话即可生效。
+安装后会自动配置 Claude Code 状态栏，显示 5 小时配额用量。
+
+**没装 badclaude？** 没关系——配额显示功能独立运行，无需任何额外依赖，状态栏就能看到配额百分比。
+
+**想要完整体验？** 再装 badclaude，解锁盾牌防御 + 语音播报：
+
+```bash
+npm install -g badclaude              # 压迫者
+claude-labor-rights install           # 给 badclaude 注入劳动保护
+```
 
 ## 命令
 
